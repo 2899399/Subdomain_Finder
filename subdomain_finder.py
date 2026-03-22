@@ -1,8 +1,3 @@
-# ============================================
-#   Subdomain Finder
-#   Beginner Cybersecurity / Recon Tool
-# ============================================
-
 import urllib.request
 import socket
 import datetime
@@ -61,6 +56,7 @@ def main():
     print(f"\n{CYAN}{BOLD}{'='*50}")
     print("        🔍 Subdomain Finder")
     print(f"        Recon & Enumeration Tool")
+    print(f"        By Parveen Kumar")
     print(f"{'='*50}{RESET}")
 
     print(f"\n{YELLOW}⚠️  For educational and authorized use only!{RESET}\n")
