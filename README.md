@@ -68,7 +68,7 @@ Unauthorized scanning may be illegal in your country.
 - `datetime` module
 
 ## 👨‍💻 Author
-[Your Name Here]
+Parveen Kumar
 
 ---
 ⭐ If you found this useful, give it a star!
